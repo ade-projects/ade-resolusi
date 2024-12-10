@@ -1,0 +1,7 @@
+ADE RESOLUSI
+- Belajar Javascript dasar.
+- Membuat project dengan Javascript.
+- Belajar php dasar.
+- Belajar membuat project dengan Laravel.
+
+~Stay Curios!~
